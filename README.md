@@ -13,7 +13,7 @@
 
 Senior Software Engineer with **7+ years of experience** building cloud-scale, secure, cross-platform applications and microservices. I specialize in **React, Next.js, Node.js, and Python** — and enjoy solving complex product & architectural problems in AI-driven and fintech environments.
 
-Currently working at **Aerion Technologies (Australia)** and **Code Daemon (Nepal)**.
+Currently working at **MusicGPT**.
 
 ---
 
@@ -44,18 +44,6 @@ Currently working at **Aerion Technologies (Australia)** and **Code Daemon (Nepa
 
 ---
 
-## 📈 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudpmishra&show_icons=true&layout=compact" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sudpmishra&show_icons=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudpmishra" />
-</p>
-
----
 
 ## 🌐 Portfolio & Links
 
